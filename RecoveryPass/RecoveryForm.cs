@@ -28,7 +28,7 @@ namespace RecoveryPass
 
         private async void btnRec_Click(object sender, EventArgs e)
         {
-            smtpClient = smtp.Start("sashakach20022002");
+            smtpClient = smtp.Start("**");
             
 
             string sqlExpression = "GetAllPass";
