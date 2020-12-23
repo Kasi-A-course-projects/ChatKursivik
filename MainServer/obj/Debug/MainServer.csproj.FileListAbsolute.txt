@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ChatKursovik\MainServer\bin\Debug\MainServer.exe.config
+C:\Users\admin\Desktop\ChatKursovik\MainServer\bin\Debug\MainServer.exe
+C:\Users\admin\Desktop\ChatKursovik\MainServer\bin\Debug\MainServer.pdb
+C:\Users\admin\Desktop\ChatKursovik\MainServer\obj\Debug\MainServer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ChatKursovik\MainServer\obj\Debug\MainServer.FormServer.resources
+C:\Users\admin\Desktop\ChatKursovik\MainServer\obj\Debug\MainServer.Properties.Resources.resources
+C:\Users\admin\Desktop\ChatKursovik\MainServer\obj\Debug\MainServer.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ChatKursovik\MainServer\obj\Debug\MainServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ChatKursovik\MainServer\obj\Debug\MainServer.exe
+C:\Users\admin\Desktop\ChatKursovik\MainServer\obj\Debug\MainServer.pdb
+C:\Users\admin\Desktop\ChatKursovik\MainServer\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\ChatKursovik\MainServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\ChatKursovik\MainServer\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\ChatKursovik\MainServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\ChatKursovik\MainServer\obj\Debug\MainServer.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\bin\Debug\RecoveryPass.exe.config
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\bin\Debug\RecoveryPass.exe
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\bin\Debug\RecoveryPass.pdb
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\obj\Debug\RecoveryPass.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\obj\Debug\RecoveryPass.Properties.Resources.resources
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\obj\Debug\RecoveryPass.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\obj\Debug\RecoveryPass.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\obj\Debug\RecoveryPass.exe
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\obj\Debug\RecoveryPass.pdb
+C:\Users\admin\Desktop\ChatKursovik\RecoveryPass\obj\Debug\RecoveryPass.RecoveryForm.resources

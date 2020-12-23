@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\bin\Debug\Chat.DAL.dll
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\bin\Debug\Chat.DAL.pdb
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\bin\Debug\Chat.DAL.dll.config
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\obj\Debug\AdminPanel.AdminForm.resources
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\admin\Desktop\ChatKursovik\AdminPanel\obj\Debug\AdminPanel.pdb

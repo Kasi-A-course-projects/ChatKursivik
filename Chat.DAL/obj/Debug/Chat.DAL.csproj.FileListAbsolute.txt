@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\bin\Debug\Chat.DAL.dll.config
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\bin\Debug\Chat.DAL.dll
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\bin\Debug\Chat.DAL.pdb
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\obj\Debug\Chat.DAL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\obj\Debug\Chat.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\obj\Debug\Chat.DAL.csproj.CopyComplete
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\obj\Debug\Chat.DAL.dll
+C:\Users\admin\Desktop\ChatKursovik\Chat.DAL\obj\Debug\Chat.DAL.pdb

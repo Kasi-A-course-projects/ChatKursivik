@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\bin\Debug\Registrarion.exe.config
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\bin\Debug\Registrarion.exe
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\bin\Debug\Registrarion.pdb
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\obj\Debug\Registrarion.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\obj\Debug\Registrarion.Registration.resources
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\obj\Debug\Registrarion.Properties.Resources.resources
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\obj\Debug\Registrarion.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\obj\Debug\Registrarion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\obj\Debug\Registrarion.exe
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\obj\Debug\Registrarion.pdb
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\bin\Debug\Chat.DAL.dll
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\bin\Debug\Chat.DAL.pdb
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\bin\Debug\Chat.DAL.dll.config
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\ChatKursovik\Registrarion\obj\Debug\Registrarion.csproj.CopyComplete
